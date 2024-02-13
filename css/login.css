@@ -6,7 +6,7 @@
     align-items: center;
     flex-direction: column;
     width: 300px;
-    height: 300px;
+     height: 300px;
     margin: auto;
     border: 1px solid black;
     border-radius: 10px;
@@ -117,7 +117,7 @@
     transform: translateY(2px);
 }
             
-.field-error
+            .field-error
 {
     font-weight: bold;
     display: none;
